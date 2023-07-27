@@ -1,3 +1,4 @@
+# Base on https://github.com/IBM/ibm-generative-ai/blob/main/examples/user/alice_bob_talk.py
 import time, os
 from dotenv import load_dotenv
 from genai.credentials import Credentials
